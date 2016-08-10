@@ -1,0 +1,13 @@
+New log file opened at Tue Aug 09 20:40:53 EDT 2016 by 2082@Yus-MacBook-Air.local
+Taking next connection to: 53512
+New client attempting to connect on port: 53513-53512
+  Address = /172.31.169.11:53512
+This client on port 53513 has uuid 67359ea3-cc19-458b-84f9-ea44afce488e configName play-fork-run humanReadableName Play Fork Run protocolVersion 1 featureTags Vector()
+Connected Clients: play-fork-run-67359ea3-cc19-458b-84f9-ea44afce488e
+Taking next connection to: 53512
+Checking to see if clients are empty...
+No non-daemon clients connected after 3 min. Shutting down.
+Server socket thread exiting.
+0 clients open, will close them...
+All client sockets have been closed.
+Closing the 2082@Yus-MacBook-Air.local logs at Tue Aug 09 20:43:54 EDT 2016, goodbye.
